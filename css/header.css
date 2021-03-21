@@ -1,0 +1,49 @@
+.header {
+
+}
+
+.container {
+
+}
+
+.header__row {
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.header__content {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 670px;
+  transform: translateY(-50%);
+}
+
+.header__title {
+  margin: 0;
+  font-family: "PlayfairDisplay", serif;
+  font-size: 72px;
+  line-height: 96px;
+  font-weight: normal;
+  margin-bottom: 20px;
+}
+
+.header__text {
+  font-size: 22px;
+  line-height: 1.5;
+  margin-bottom: 60px;
+}
+
+.header__btn {
+  
+}
+
+.header__btn a {
+  color: #ffffff;
+  font-family: "PlayfairDisplay", serif;
+}
+
+.header__photo {
+
+}
